@@ -1,6 +1,6 @@
 #include <cstdio>
 
 int main() {
-    puts("Hello!\nHello!");
+    puts("Hello!Hello!");
     return 0;
 }
