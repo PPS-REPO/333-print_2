@@ -63,12 +63,6 @@
             "only_deploy": false
         },
         {
-            "script": "manual 2",
-            "description": "예제로 사용될 데이터 2번입니다.",
-            "is_example": true,
-            "only_deploy": false
-        },
-        {
             "script": "random_py 1 9 1 9",
             "description": "",
             "is_example": false,
