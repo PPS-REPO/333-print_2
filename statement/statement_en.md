@@ -15,15 +15,16 @@ Output "Hello!" across two lines.
 n Python:
 
 ```py
-print("Hello!\nHello!")
+print("Hello!Hello!")
 ```
 In C++ or C:
 
 ```c
 #include <stdio.h>
 int main(){
-  printf("Hello!\nHello!");
+  printf("Hello!Hello!");
   return 0;
-}```
+}
+```
 
 can solve this problem.
