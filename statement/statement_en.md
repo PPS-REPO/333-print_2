@@ -2,7 +2,7 @@
 
 In programming, there's something called input and output. 
 Among them, we are going to start with output for the second time. 
-This problem is the second programming problem we learn, which is to output "Hello!" across two lines.
+This problem is the second programming problem we learn, which is to output "Hello!" again..
 
 # Input
 
@@ -10,7 +10,7 @@ There is no input for this problem.
 
 # Output
 
-Output "Hello!" across two lines.
+Output "Hello!" across two.
 
 n Python:
 
