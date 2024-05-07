@@ -57,7 +57,7 @@
     ],
     "genscript": [
         {
-            "script": "generator_alias args1 args2 args3",
+            "script": "manual 1",
             "description": "",
             "is_example": true,
             "only_deploy": false
