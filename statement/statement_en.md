@@ -1,16 +1,29 @@
 # Problem
 
-You are given two integers $a$ and $b$.
-
-Print $a + b$.
+In programming, there's something called input and output. 
+Among them, we are going to start with output for the second time. 
+This problem is the second programming problem we learn, which is to output "Hello!" across two lines.
 
 # Input
 
-The first line of input contains two integers $a$ and $b$ separated by a space.
-
-* $1 \le a \le 9$
-* $1 \le b \le 9$
+There is no input for this problem.
 
 # Output
 
-Print $a + b$ on the first line of output.
+Output "Hello!" across two lines.
+
+n Python:
+
+```py
+print("Hello!\nHello!")
+```
+In C++ or C:
+
+```c
+#include <stdio.h>
+int main(){
+  printf("Hello!\nHello!");
+  return 0;
+}```
+
+can solve this problem.
