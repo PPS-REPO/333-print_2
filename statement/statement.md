@@ -10,11 +10,11 @@
 
 # 출력
 
-"Hello!"를 두개의 줄에 걸쳐 출력해보자.
+"Hello!"를 두번에 걸쳐 출력해보자.
 
 python 에선
 ```py
-print("Hello!\nHello!")
+print("Hello!Hello!")
 ```
 
 C++ Or C에선
@@ -22,7 +22,7 @@ C++ Or C에선
 ```c
 #include <stdio.h>
 int main(){
-  printf("Hello!\nHello!");
+  printf("Hello!Hello!");
   return 0;
 }
 ```
